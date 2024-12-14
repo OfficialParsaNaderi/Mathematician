@@ -1,0 +1,6 @@
+from os import system
+system("cls")
+number1=190
+number2=1000
+result=number1*number2
+print(result)
